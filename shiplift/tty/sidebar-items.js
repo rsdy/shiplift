@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["TtyLine",""]],"struct":[["InterlacedTty","Used to demux the output of Docker log, but still keep lines from stdout and stderr interlaced in the right order."],["Tty",""]]});
